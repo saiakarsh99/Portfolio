@@ -83,15 +83,15 @@ a:hover {
 }
 
 .bg-image {
-  /*background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center; */
+  background-position: center center; 
 
-  background-size: cover; /* Ensures the image covers the entire container */
-    background-position: center; /* Centers the image within its container */
+ /* background-size: cover; /* Ensures the image covers the entire container 
+    background-position: center; /* Centers the image within its container 
     background-repeat: no-repeat; /* Prevents repeating of the image */
-    
+
 }
 
 .overlay-mf {
